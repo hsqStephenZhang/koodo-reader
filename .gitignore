@@ -14,7 +14,8 @@
 dist/
 
 /build
-/.vscode
+.vscode/*
+!.vscode/launch.json
 
 # misc
 .DS_Store
